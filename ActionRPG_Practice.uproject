@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.25",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ActionRPG_Practice",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
