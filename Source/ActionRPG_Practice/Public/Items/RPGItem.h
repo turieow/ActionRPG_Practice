@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class ACTIONRPG_PRACTICE_API UItemBase : public UPrimaryDataAsset
+class ACTIONRPG_PRACTICE_API URPGItem : public UPrimaryDataAsset
 {
 	GENERATED_BODY()
 	
