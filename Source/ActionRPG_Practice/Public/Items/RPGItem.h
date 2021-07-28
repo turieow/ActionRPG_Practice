@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "Engine/DataAsset.h"
-#include "ItemBase.generated.h"
+#include "RPGItem.generated.h"
 
 /**
  * 
