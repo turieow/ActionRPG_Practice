@@ -7,3 +7,6 @@
 link error 
 unresolved external symbol ->未解決のシンボル
 igameplayasdefaulttowner
+
+・.generated.hは必ず最後にインクルードする
+
