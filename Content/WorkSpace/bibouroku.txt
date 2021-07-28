@@ -1,0 +1,9 @@
+・AbilitySystemComponentの追加時
+　Build.csのPublicDependencyModuleNames.AddRangeに"GameplayAbilities","GameplayTasks"を追加する。
+　Character.cppなどに追加するときの手順も載ってる
+ https://okawari-hakumai.hatenablog.com/entry/2018/07/22/165242
+
+検索法
+link error 
+unresolved external symbol ->未解決のシンボル
+igameplayasdefaulttowner
