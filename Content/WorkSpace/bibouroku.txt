@@ -10,3 +10,6 @@ igameplayasdefaulttowner
 
 ・.generated.hは必ず最後にインクルードする
 
+・UFUNCTIONの種類
+　https://papersloth.hatenablog.com/entry/2018/09/19/195013
+
